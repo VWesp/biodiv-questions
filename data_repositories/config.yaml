@@ -1,0 +1,5 @@
+dryad: http://api.datadryad.org/oai/request?verb=GetRecord
+gbif: http://api.gbif.org/v1/oai-pmh/registry?verb=GetRecord
+pangaea: http://ws.pangaea.de/oai/provider?verb=GetRecord
+zenodo: https://zenodo.org/oai2d?verb=GetRecord
+figshare: https://api.figshare.com/v2/oai?verb=GetRecord
